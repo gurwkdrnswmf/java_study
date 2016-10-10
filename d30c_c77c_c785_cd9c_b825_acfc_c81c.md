@@ -1,4 +1,9 @@
-# 파일 입출력 과제
+ # 파일 입출력 #
+
+
+요번과제에서는 아스키코드와 문자열, 정수와의 변환이 중요했습니다. 
+FileInputStream, FileOutputStream File Reader 클래스는 아스키코드를 통해서 작업이 수행되었습니다.
+
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
